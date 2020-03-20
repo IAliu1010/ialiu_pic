@@ -8,19 +8,19 @@
 
 ### 下载PicGo安装包，地址https://github.com/Molunerfinn/picgo/releases
 
-![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic/master/pic/1.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/1.png)
 
 ### 软件安装后
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/2.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/2.png)
 
 ### 创建github图床
 
 #### 创建Repository
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/3.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/3.png)
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/4.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/4.png)
 
 #### 创建 token 并复制保存
 
@@ -28,31 +28,31 @@
 
 ​	**1)Settings** 
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/5.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/5.png)
 
 ​	
 
 **2)Developer settings**
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/6.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/6.png)
 
 3)Personal access tokens===>Generate new token
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/7.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/7.png)
 
 **4)填Note===>勾选rpeo**
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/8.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/8.png)
 
 **确认创建**
 
 **5)复制保存token**
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/9.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/9.png)
 
 ### PicGo配置
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/10.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master/pic/10.png)
 
 
 
