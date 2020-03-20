@@ -8,7 +8,7 @@
 
 ### 下载PicGo安装包，地址https://github.com/Molunerfinn/picgo/releases
 
-![](https://raw.githubusercontent.com/IAliu1010/ialiu_pic/master/pic/1.png)
+![](https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic/master/pic/1.png)
 
 ### 软件安装后
 
