@@ -58,4 +58,6 @@
 
 ## Tips:
 
+https://cdn.jsdelivr.net/gh/IAliu1010/ialiu_pic@master
+
 github用来当图床虽然免费，但是上传的照片是公开，并且上传时偶尔会抽风，上传失败
